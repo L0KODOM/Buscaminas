@@ -1,6 +1,5 @@
 package tarea_buscaminas;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public final class Game {

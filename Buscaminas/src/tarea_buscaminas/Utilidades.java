@@ -44,6 +44,8 @@ public final class Utilidades {
 	        } else {
 	            new ProcessBuilder("clear").inheritIO().start().waitFor();
 	        }
+	        System.out.println("Bienvenido al buscaminas. Presiona Ctrl + C para salir.\n\n");
+	        
 	    } catch (IOException | InterruptedException e) {
 	        e.printStackTrace();
 	    }

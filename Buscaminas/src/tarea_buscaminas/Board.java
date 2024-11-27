@@ -1,8 +1,6 @@
 package tarea_buscaminas;
 
 import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Objects;
 
 public final class Board {
 

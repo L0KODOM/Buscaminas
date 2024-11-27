@@ -1,7 +1,5 @@
 package tarea_buscaminas;
 
-import java.io.IOException;
-
 public class EstadoDeJuego {
 	
 	private int intentos;

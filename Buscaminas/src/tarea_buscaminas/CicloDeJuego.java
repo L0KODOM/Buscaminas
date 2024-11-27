@@ -14,7 +14,7 @@ public class CicloDeJuego {
 	
 	public void start() {
 
-		System.out.println("Bienvenido al buscaminas. Presiona Ctrl + C para salir.");
+		System.out.println("Bienvenido al buscaminas. Presiona Ctrl + C para salir.\n\n");
 		
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> {
 			running = false;
